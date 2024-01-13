@@ -5,7 +5,6 @@ from django.contrib.contenttypes.fields import GenericForeignKey , GenericRelati
 from django.contrib.contenttypes.models import ContentType 
 
 
-
 # Create your models here.
 
 
